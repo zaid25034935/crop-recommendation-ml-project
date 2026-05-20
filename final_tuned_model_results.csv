@@ -1,0 +1,2 @@
+Model,Accuracy,Precision,Recall,F1-Score,Best Parameters
+Tuned Random Forest,0.9954545454545455,0.9956709956709956,0.9954545454545455,0.9954517027687759,"{'max_depth': 10, 'min_samples_leaf': 1, 'min_samples_split': 5, 'n_estimators': 100}"
